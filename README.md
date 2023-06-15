@@ -7,7 +7,7 @@
 
   # MoonRabbit
 
-  <a href="https://https://ninth-booth-e7c.notion.site/bcbfe7823d8644c6b4eea26a8530fec3">
+  <a href="https://withthemoonrabbit.notion.site/14695055007148639d0d0d63a0d801c7?pvs=4">
   <img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
   <img align="right" width="60" src="https://media4.giphy.com/media/5ImdJEaEyxBlJt3uxW/200.webp?cid=ecf05e47j7eq37hyiumvxxm4i5pmwer6v52awluhm8irlefq&ep=v1_stickers_search&rid=200.webp&ct=s" />
