@@ -1,12 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MoonRabbit&animation=twinkling&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonRabbit&animation=twinkling&fontSize=70)
 
-### Hi 👋
-<br>
-I am junior game developer
-I hope to work as a technicalArtist
+<div align="">
 
-🛠Back Tech Stack🛠
-<img src="https://img.shields.io/badge/-blender-orange?logo=blender&logoColor=white"/></a>&nbsp
+  ## MoonRabbit
+  
+  <a href="https://https://ninth-booth-e7c.notion.site/bcbfe7823d8644c6b4eea26a8530fec3"><img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+  ---
+  
+  <img src="https://img.shields.io/badge/-blender-orange?logo=blender&logoColor=white"/>
+  
+</div>
+
+
 
 <!--
 **WithTheMoonRabbit/WithTheMoonRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
