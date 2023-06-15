@@ -6,6 +6,8 @@
 
   <a href="https://https://ninth-booth-e7c.notion.site/bcbfe7823d8644c6b4eea26a8530fec3">
   <img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+  <img align="right" width="50" src="https://media0.giphy.com/media/XvykTyIcYLesU/200w.webp?cid=ecf05e47hbrul4tcjn4f6ekw8g6rqr3obdok0msdkr93uvgk&ep=v1_gifs_search&rid=200w.webp&ct=g" />
   
   ---
   
