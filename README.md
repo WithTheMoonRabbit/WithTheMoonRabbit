@@ -3,7 +3,7 @@
 
 <div align="">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WithTheMoonRabbit&show_icons=true&theme=highcontrast)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WithTheMoonRabbit&show_icons=true&theme=highcontrast"/></a>
 
   # MoonRabbit
 
