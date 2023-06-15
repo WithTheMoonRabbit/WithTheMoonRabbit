@@ -7,9 +7,16 @@
 
   # MoonRabbit
 
+  <a href="https://with.the.moon.rabbit@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-F6F6F6?style=for-the-badge&logo=Gmail&logoColor=F29661"/></a>
+  
   <a href="https://withthemoonrabbit.notion.site/14695055007148639d0d0d63a0d801c7?pvs=4">
   <img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
+  <a href="https://withthemoonrabbit.notion.site/14695055007148639d0d0d63a0d801c7?pvs=4">
+  <img src="https://img.shields.io/badge/-Figma-993800?style=for-the-badge&logo=Figma&logoColor=E5D85C"/></a>
+
+  <a href="https://www.figma.com/files/team/1251219514306507019">
   <img align="right" width="60" src="https://media4.giphy.com/media/5ImdJEaEyxBlJt3uxW/200.webp?cid=ecf05e47j7eq37hyiumvxxm4i5pmwer6v52awluhm8irlefq&ep=v1_stickers_search&rid=200.webp&ct=s" />
   
   ---
