@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=000&height=200&section=header&text=MoonRabbit🐇&fontColor=d6ace6&animation=scaleIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=000&height=180&section=header&text=MoonRabbit🐇&fontColor=d6ace6&animation=scaleIn&fontSize=50)
 
 <div align="">
 
