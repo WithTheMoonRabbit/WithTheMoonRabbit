@@ -4,11 +4,21 @@
 
   ## MoonRabbit
   
-  <a href="https://https://ninth-booth-e7c.notion.site/bcbfe7823d8644c6b4eea26a8530fec3"><img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://https://ninth-booth-e7c.notion.site/bcbfe7823d8644c6b4eea26a8530fec3">
+  <img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
   ---
-  
-  <img src="https://img.shields.io/badge/-blender-orange?logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unreal%20engine-black?logo=unreal%20engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unity-lightgray?logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Godot%20Engine-ffa9ff?logo=Godot%20Engine&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-Android%20Studio-brightgreen?logo=AndroidStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Blender-orange?logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-red"/>
+  <img src="https://img.shields.io/badge/-sharp-blue?logo=C&logoColor=9cf"/>
+  <img src="https://img.shields.io/badge/-C++-FAECC5?logo=cplusplus&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-MySQL-B2EBF4?logo=MySQL&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFE400?logo=Firebase&logoColor=red"/>
+  </p>
   
 </div>
 
