@@ -7,7 +7,7 @@
 
   # MoonRabbit
 
-  <a href="https://with.the.moon.rabbit@gmail.com">
+  <a href="https://https://www.with.the.moon.rabbit@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-F6F6F6?style=for-the-badge&logo=Gmail&logoColor=F29661"/></a>
   
   <a href="https://withthemoonrabbit.notion.site/14695055007148639d0d0d63a0d801c7?pvs=4">
