@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=000&height=180&section=header&text=MoonRabbit🐇&fontColor=d6ace6&animation=scaleIn&fontSize=100)
 
-<div align="">
+## MoonRabbit
 
-  ## MoonRabbit
+<div align="">
 
   <a href="https://https://ninth-booth-e7c.notion.site/bcbfe7823d8644c6b4eea26a8530fec3">
   <img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
