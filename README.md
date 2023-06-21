@@ -3,7 +3,7 @@
 
 <div align="">
 
-<img align="right" height="125" src="https://github-readme-stats.vercel.app/api?username=withthemoonrabbit"/>
+<img align="right" height="125" src="https://github-readme-stats.vercel.app/api?username=WithTheMoonRabbit&show_icons=true&theme=highcontrast"/>
 
   # MoonRabbit
 
