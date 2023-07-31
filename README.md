@@ -40,7 +40,8 @@
   Now Studying
   <p>
   <img src="https://img.shields.io/badge/-Unreal%20engine-black?logo=unreal%20engine&logoColor=white"/>
-    grpc,kubernetes
+  <img src="https://img.shields.io/badge/-grpc-ffa9ff?e&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-kubernetes-B2EBF4?logo=kubernetes&logoColor=blue"/>
   </p>
 </div>
 
