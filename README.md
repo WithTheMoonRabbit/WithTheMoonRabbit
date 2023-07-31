@@ -32,8 +32,10 @@
   <img src="https://img.shields.io/badge/-Firebase-FFE400?logo=Firebase&logoColor=red"/>
   <img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=9253EB"/>
   </p>
-  
 </div>
+
+---
+
 <div>
   Now Studying
   <p>
