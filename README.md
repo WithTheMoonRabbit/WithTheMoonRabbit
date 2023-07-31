@@ -29,7 +29,6 @@
   
   <img src="https://img.shields.io/badge/-Java-red"/>
   <img src="https://img.shields.io/badge/-sharp-blue?logo=C&logoColor=9cf"/>
-  <img src="https://img.shields.io/badge/-C++-FAECC5?logo=cplusplus&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-MySQL-B2EBF4?logo=MySQL&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-Firebase-FFE400?logo=Firebase&logoColor=red"/>
   <img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=9253EB"/>
