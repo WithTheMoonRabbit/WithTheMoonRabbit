@@ -20,7 +20,6 @@
   
   ---
   
-  <img src="https://img.shields.io/badge/-Unreal%20engine-black?logo=unreal%20engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unity-lightgray?logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Godot%20Engine-ffa9ff?logo=Godot%20Engine&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-Android%20Studio-brightgreen?logo=AndroidStudio&logoColor=white"/>
@@ -34,6 +33,10 @@
   <img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=9253EB"/>
   </p>
   
+</div>
+<div>
+  Now Studying
+  <img src="https://img.shields.io/badge/-Unreal%20engine-black?logo=unreal%20engine&logoColor=white"/>
 </div>
 
 
