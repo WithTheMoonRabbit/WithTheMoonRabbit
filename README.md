@@ -44,10 +44,12 @@
   <img src="https://img.shields.io/badge/-kubernetes-B2EBF4?logo=kubernetes&logoColor=blue"/>
   </p>
   ![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
+  
 </div>
 
 
-https://github.com/WithTheMoonRabbit/WithTheMoonRabbit/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/WithTheMoonRabbit/WithTheMoonRabbit/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <!--
