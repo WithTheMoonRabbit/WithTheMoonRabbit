@@ -43,9 +43,8 @@
   <img src="https://img.shields.io/badge/-grpc-ffa9ff?e&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-kubernetes-B2EBF4?logo=kubernetes&logoColor=blue"/>
   </p>
+  ![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
 </div>
-
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **WithTheMoonRabbit/WithTheMoonRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
