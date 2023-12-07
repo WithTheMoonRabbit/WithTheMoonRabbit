@@ -48,7 +48,6 @@
 </div>
 
 
-![snake gif](https://github.com/WithTheMoonRabbit/WithTheMoonRabbit/blob/output/github-contribution-grid-snake.gif)
 
 
 
