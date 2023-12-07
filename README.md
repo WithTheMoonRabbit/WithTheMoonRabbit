@@ -24,7 +24,6 @@
   <!--<img src="https://img.shields.io/badge/-Godot%20Engine-ffa9ff?logo=Godot%20Engine&logoColor=blue"/>-->
   <img src="https://img.shields.io/badge/-Android%20Studio-brightgreen?logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Blender-orange?logo=blender&logoColor=white"/>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=201844087)](https://solved.ac/201844087)
   <br>
   
   <img src="https://img.shields.io/badge/-Java-red"/>
