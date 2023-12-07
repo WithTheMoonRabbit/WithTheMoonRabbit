@@ -46,6 +46,10 @@
   ![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
+
+https://github.com/WithTheMoonRabbit/WithTheMoonRabbit/blob/output/github-contribution-grid-snake.gif
+
+
 <!--
 **WithTheMoonRabbit/WithTheMoonRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
