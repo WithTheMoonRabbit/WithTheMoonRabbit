@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Java-red"/>
   <img src="https://img.shields.io/badge/-sharp-blue?logo=C&logoColor=9cf"/>
   <img src="https://img.shields.io/badge/-Postgresql-B2EBF4?logo=Postgresql&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=9253EB"/>
+  <!--<img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=9253EB"/>-->
   <img src="https://img.shields.io/badge/-kubernetes-B2EBF4?logo=kubernetes&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-Grpc-ffa9ff?e&logoColor=blue"/>
   </p>
