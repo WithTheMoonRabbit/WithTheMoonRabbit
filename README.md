@@ -5,7 +5,7 @@
 
 <img align="right" height="125" src="https://github-readme-stats.vercel.app/api?username=WithTheMoonRabbit&count_private&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats"/>
 <h1 align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=7000&pause=1000&color=48F7B7&random=false&width=435&lines=Wake+up%2C+pal...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=7000&pause=1000&color=48F7B7&random=false&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock" />
 </h1>
 <a href="https://www.with.the.moon.rabbit@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-F6F6F6?style=for-the-badge&logo=Gmail&logoColor=F29661"/></a>
