@@ -6,7 +6,8 @@
 
 <img align="right" height="125" src="https://github-readme-stats.vercel.app/api?username=WithTheMoonRabbit&count_private&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats"/>
 <h3 align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=1000&random=false&width=435&lines=Hi%F0%9F%96%90%EF%B8%8F;Thank+you+for+coming;Have+a+nice+day%F0%9F%91%8D%F0%9F%91%8D" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=1000&random=false&width=435&lines=Hi%F0%9F%96%90%EF%B8%8F;Thank+you+for+coming;Have+a+nice+day" />
+<!--     %F0%9F%91%8D%F0%9F%91%8D -->
     
 <!--     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=7000&pause=1000&color=48F7B7&random=false&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock" /> -->
 
