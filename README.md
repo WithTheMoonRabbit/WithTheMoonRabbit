@@ -6,7 +6,7 @@
 
 <img align="right" height="125" src="https://github-readme-stats.vercel.app/api?username=WithTheMoonRabbit&count_private&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats"/>
 <h3 align="left">
-    <!--<img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=1000&random=false&width=435&lines=Hi%F0%9F%96%90%EF%B8%8F;Thank+you+for+coming;Have+a+nice+day" />-->
+    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=200&random=false&width=435&lines=Hello%F0%9F%96%90%EF%B8%8F;World🌏;" />
 <!--     %F0%9F%91%8D%F0%9F%91%8D -->
     
 <!--     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=7000&pause=1000&color=48F7B7&random=false&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock" /> -->
@@ -21,7 +21,7 @@
   <a href="https://www.figma.com/files/team/1251219514306507019">
   <img src="https://img.shields.io/badge/-Figma-993800?style=for-the-badge&logo=Figma&logoColor=E5D85C"/></a>
 
-  <!--<img align="right" width="60" src="https://media4.giphy.com/media/5ImdJEaEyxBlJt3uxW/200.webp?cid=ecf05e47j7eq37hyiumvxxm4i5pmwer6v52awluhm8irlefq&ep=v1_stickers_search&rid=200.webp&ct=s" />-->
+  <img align="right" width="60" src="https://media4.giphy.com/media/5ImdJEaEyxBlJt3uxW/200.webp?cid=ecf05e47j7eq37hyiumvxxm4i5pmwer6v52awluhm8irlefq&ep=v1_stickers_search&rid=200.webp&ct=s" />
   
   ---
   
